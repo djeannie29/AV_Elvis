@@ -4,4 +4,7 @@
     <option name="sdkUUID" value="abdcbebe-7ccd-45ed-81de-fb123a949fbc" />
   </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.11 (AV_Elvis)" project-jdk-type="Python SDK" />
+  <component name="PyPackaging">
+    <option name="earlyReleasesAsUpgrades" value="true" />
+  </component>
 </project>
